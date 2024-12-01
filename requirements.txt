@@ -4,7 +4,7 @@ langchain-groq
 langchain-anthropic
 langchain-openai
 langchain-ollama
-langchain-nomic "nomic[local]"
+langchain-nomic[local]
 tiktoken 
 langchainhub 
 chromadb 
