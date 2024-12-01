@@ -4,3 +4,9 @@ langchain-groq
 langchain-anthropic
 langchain-openai
 langchain-ollama
+langchain-nomic "nomic[local]"
+tiktoken 
+langchainhub 
+chromadb 
+langchain-text-splitters
+bs4
