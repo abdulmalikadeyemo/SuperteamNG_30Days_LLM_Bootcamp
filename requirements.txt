@@ -10,3 +10,4 @@ langchainhub
 chromadb 
 langchain-text-splitters
 bs4
+python-dotenv
