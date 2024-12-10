@@ -1,4 +1,4 @@
-langgraph
+langgraph==0.2.56
 langchain-community
 langchain-groq
 langchain-anthropic
@@ -12,3 +12,5 @@ langchain-text-splitters
 bs4
 python-dotenv
 sentence_transformers
+langchain_experimental
+matplotlib
